@@ -11,8 +11,8 @@ Este é um guia sequencial para estudar e se tornar um desenvolvedor frontend.
 <br>🔹 [O que é Frontend](/docs/introduction/what_frontend.md);
 <br>🔹 [Qual a função do desenvolvedor frontend](/docs/introduction/what_frontend_develop.md).
 
-1️⃣ *<b>Fundamentos da Web* (TODO)</b>
-<br>🔹 Como a web funciona (HTTP, DNS, Servidores, Hospedagem);
+1️⃣ *<b>Fundamentos da Web*</b>
+<br>🔹 [Como a web funciona (HTTP, DNS, Servidores, Hospedagem)](/docs/web-fundamentals/http-dns-servers-hostings.md);
 <br>🔹 Navegadores e DevTools.
 
 2️⃣ *<b>Controle de Versão & Git*(TODO)</b>
