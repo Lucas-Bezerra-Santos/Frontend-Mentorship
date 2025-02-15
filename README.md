@@ -45,7 +45,7 @@ Este é um guia sequencial para estudar e se tornar um desenvolvedor frontend.
 6️⃣ *<b>Programação Assíncrona & APIs*(TODO)</b>;
 <br>🔹 Fetch API e consumo de APIs REST;
 <br>🔹 Manipulação de dados (JSON, LocalStorage, SessionStorage);
-<br>🔹 WebSockets e comunicação em tempo real.
+<br>🔹 WebSockets e comunicação em tempo real(talvez nao).
 
 7️⃣ *<b>TypeScript(TODO)</b>*
 <br>🔹 Tipagem estática vs. dinâmica;
