@@ -7,7 +7,7 @@ E ai se interessou em se transforma em um baita desenvolvedor frontend? <b>Sim, 
 ## 📚 Roteiro de Estudos para Frontend 📚
 Este é um guia sequencial para estudar e se tornar um desenvolvedor frontend.
 
-0️⃣ <b>Introdução ao universo frontend*</b>
+0️⃣ <b>Introdução ao universo frontend</b>
 <br>🔹 [O que é Frontend](/docs/introduction/what_frontend.md);
 <br>🔹 [Qual a função do desenvolvedor frontend](/docs/introduction/what_frontend_develop.md).
 
