@@ -99,7 +99,7 @@ Para tornar um site acessível, ele precisa ser **hospedado** em um servidor.
 - **Firebase Hosting** → Integração fácil com backend serverless.
 
 
-### 🔍 Hora da prática
+## 🔍 Hora da prática
 - Com suas palavras, descreva tudo que acabou de entender definindo e dizendo para
 que ser HTTP, HTTPS, DNS, Fluxo de Requisições na Web?;
 - Onde uma aplicação frontend se encaixa dentro do Fluxo de Requisições na Web?;
@@ -107,6 +107,6 @@ que ser HTTP, HTTPS, DNS, Fluxo de Requisições na Web?;
 - Quais os principais métodos HTTP e para que serve cada um deles?;
 - Quais os principais grupos de codigos de resposta HTTP?
 
-### 🎯 Conclusão
+## 🎯 Conclusão
 
 Compreender como a web funciona é essencial para qualquer desenvolvedor frontend. Saber como o navegador se comunica com servidores, como funcionam os protocolos de rede e os tipos de hospedagem ajuda na criação de aplicações mais rápidas, seguras e escaláveis.
