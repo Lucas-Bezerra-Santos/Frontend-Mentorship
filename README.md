@@ -4,7 +4,7 @@ Este repositório é dedicado a mentorias de frontend, oferecendo suporte para d
 
 E ai se interessou em se transforma em um baita desenvolvedor frontend? <b>Sim, Lógico, Bora, vamo</b>
 
-### 📚 Roteiro de Estudos para Frontend 📚
+## 📚 Roteiro de Estudos para Frontend 📚
 Este é um guia sequencial para estudar e se tornar um desenvolvedor frontend.
 
 0️⃣ <b>Introdução ao universo frontend*</b>
