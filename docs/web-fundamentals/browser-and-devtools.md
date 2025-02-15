@@ -101,6 +101,8 @@ console.log('Hello, DevTools!');
 - Ative **Persist Logs** no console para manter mensagens após recarregar a página.
 
 
+## 🔍 Hora da prática
+
 
 ## 🎯 Conclusão
 
