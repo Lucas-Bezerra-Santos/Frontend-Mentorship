@@ -61,7 +61,7 @@ Este é um guia sequencial para estudar e se tornar um desenvolvedor frontend.
 <br>🔹 Hooks e Context API;
 <br>🔹 Gerenciamento de estado (Zustand).
 
-8️⃣ *<b>Frameworks & Bibliotecas Frontend(TODO)</b>*
+9️⃣ *<b>Frameworks & Bibliotecas Frontend(TODO)</b>*
 <br>🔹 Lint;
 <br>🔹 Prettier;
 <br>🔹 Husky;
