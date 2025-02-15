@@ -39,6 +39,7 @@ O **DevTools** é um conjunto de ferramentas embutidas nos navegadores que ajuda
 - **Windows/Linux:** `F12` ou `Ctrl + Shift + I`
 - **Mac:** `Cmd + Option + I`
 
+
 ### 🎉 Principais Painéis do DevTools
 
 1. **Elements** → Inspeciona e edita HTML e CSS em tempo real.
