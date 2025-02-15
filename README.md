@@ -10,51 +10,51 @@ Este é um guia sequencial para estudar e se tornar um desenvolvedor frontend.
 <br>🔹 [Qual a função do desenvolvedor frontend](/docs/introduction/what_frontend_develop.md).
 
 1️⃣ *<b>Fundamentos da Web* (TODO)</b>
-🔹 Como a web funciona (HTTP, DNS, Servidores, Hospedagem);
-🔹 Navegadores e DevTools.
+<br>🔹 Como a web funciona (HTTP, DNS, Servidores, Hospedagem);
+<br>🔹 Navegadores e DevTools.
 
 2️⃣ *<b>Controle de Versão & Git*(TODO)</b>
-🔹 Conceitos básicos de Git (commit, push, pull, branch);
-🔹 GitHub e colaboração em projetos;
-🔹 Pull Requests e Code Reviews.
+<br>🔹 Conceitos básicos de Git (commit, push, pull, branch);
+<br>🔹 GitHub e colaboração em projetos;
+<br>🔹 Pull Requests e Code Reviews.
 
 3️⃣ *<b>HTML & Acessibilidade*(TODO)</b>
-🔹 Estrutura básica de um documento HTML;
-🔹 Tags semânticas e boas práticas;
-🔹 Formulários e validação;
-🔹 SEO básico;
-🔹 Acessibilidade (ARIA, contraste, navegação por teclado).
+<br>🔹 Estrutura básica de um documento HTML;
+<br>🔹 Tags semânticas e boas práticas;
+<br>🔹 Formulários e validação;
+<br>🔹 SEO básico;
+<br>🔹 Acessibilidade (ARIA, contraste, navegação por teclado).
 
 4️⃣ *<b>CSS & Layouts Responsivos*(TODO)</b>
-🔹 Seletores, especificidade e herança;
-🔹 Flexbox e Grid Layout;
-🔹 Unidades de medida (px, em, rem, vw, vh, %);
-🔹 Media Queries e Mobile First;
-🔹 Pré-processadores (Sass, LESS).
+<br>🔹 Seletores, especificidade e herança;
+<br>🔹 Flexbox e Grid Layout;
+<br>🔹 Unidades de medida (px, em, rem, vw, vh, %);
+<br>🔹 Media Queries e Mobile First;
+<br>🔹 Pré-processadores (Sass, LESS).
 
 5️⃣ *<b>Logica e linguagem de programação com JavaScript (ES6+)*(TODO)</b>;
-🔹 Sintaxe básica e manipulação do DOM;
-🔹 Estruturas de controle e funções;
-🔹 Arrow Functions, Template Literals, Destructuring;
-🔹 Manipulação de Arrays e Objetos (map, filter, reduce);
-🔹 Promises, Async/Await;
-🔹 Eventos e propagação.
+<br>🔹 Sintaxe básica e manipulação do DOM;
+<br>🔹 Estruturas de controle e funções;
+<br>🔹 Arrow Functions, Template Literals, Destructuring;
+<br>🔹 Manipulação de Arrays e Objetos (map, filter, reduce);
+<br>🔹 Promises, Async/Await;
+<br>🔹 Eventos e propagação.
 
 6️⃣ *<b>Programação Assíncrona & APIs*(TODO)</b>;
-🔹 Fetch API e consumo de APIs REST;
-🔹 Manipulação de dados (JSON, LocalStorage, SessionStorage);
-🔹 WebSockets e comunicação em tempo real.
+<br>🔹 Fetch API e consumo de APIs REST;
+<br>🔹 Manipulação de dados (JSON, LocalStorage, SessionStorage);
+<br>🔹 WebSockets e comunicação em tempo real.
 
 7️⃣ *<b>TypeScript(TODO)</b>*
-🔹 Tipagem estática vs. dinâmica;
-🔹 Tipos básicos (string, number, boolean, array, object);
-🔹 Interfaces e tipos avançados;
-🔹 Generics;
-🔹 Integração com bibliotecas e frameworks.
+<br>🔹 Tipagem estática vs. dinâmica;
+<br>🔹 Tipos básicos (string, number, boolean, array, object);
+<br>🔹 Interfaces e tipos avançados;
+<br>🔹 Generics;
+<br>🔹 Integração com bibliotecas e frameworks.
 
 8️⃣ *<b>Frameworks & Bibliotecas Frontend(TODO)</b>*
-🔹 Introdução ao React;
-🔹 Componentização e Props;
-🔹 Estado (useState, useEffect);
-🔹 Hooks e Context API;
-🔹 Gerenciamento de estado (Zustand).
+<br>🔹 Introdução ao React;
+<br>🔹 Componentização e Props;
+<br>🔹 Estado (useState, useEffect);
+<br>🔹 Hooks e Context API;
+<br>🔹 Gerenciamento de estado (Zustand).
