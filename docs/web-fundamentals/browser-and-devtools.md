@@ -112,4 +112,3 @@ console.log('Hello, DevTools!');
 
 Dominar os **navegadores e DevTools** é essencial para qualquer desenvolvedor frontend. Com essas ferramentas, você pode inspecionar elementos, otimizar código e depurar erros de forma eficiente.
 
-Agora é hora de praticar e explorar ainda mais essas ferramentas! 🚀
