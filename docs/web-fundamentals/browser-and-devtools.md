@@ -102,7 +102,11 @@ console.log('Hello, DevTools!');
 
 
 ## 🔍 Hora da prática
-
+- O que é um navegador e qual sua principal função?
+- Quais são os principais motores de renderização utilizados pelos navegadores?
+- Como abrir o DevTools nos principais navegadores?
+- Para que serve o painel Inspetor no DevTools?
+- Qual a importância do painel Network e como ele pode ajudar na otimização de sites?
 
 ## 🎯 Conclusão
 
