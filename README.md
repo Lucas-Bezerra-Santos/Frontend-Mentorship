@@ -62,9 +62,9 @@ Este é um guia sequencial para estudar e se tornar um desenvolvedor frontend.
 <br>🔹 Gerenciamento de estado (Zustand).
 
 9️⃣ *<b>Aplicações & Projetos*</b>
-<br>🔹 Desenvolvimento de projetos práticos
-<br>🔹 Consumo de APIs reais
-<br>🔹 Boas práticas de código limpo e acessibilidade
+<br>🔹 Desenvolvimento de projetos práticos;
+<br>🔹 Consumo de APIs reais;
+<br>🔹 Boas práticas de código limpo e acessibilidade.
 
 1️⃣0️⃣ *<b>Frameworks & Bibliotecas Frontend(TODO)</b>*
 <br>🔹 Lint;
