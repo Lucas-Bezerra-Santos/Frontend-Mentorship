@@ -6,8 +6,8 @@ Este repositório é dedicado a mentorias de frontend, oferecendo suporte para d
 Este é um guia sequencial para estudar e se tornar um desenvolvedor frontend.
 
 0️⃣ <b>Introdução ao universo frontend*</b>
-- 🔹 [O que é Frontend](/docs/introduction/what_frontend.md);
-- 🔹 [Qual a função do desenvolvedor frontend](/docs/introduction/what_frontend_develop.md).
+<br>🔹 [O que é Frontend](/docs/introduction/what_frontend.md);
+<br>🔹 [Qual a função do desenvolvedor frontend](/docs/introduction/what_frontend_develop.md).
 
 1️⃣ *<b>Fundamentos da Web* (TODO)</b>
 🔹 Como a web funciona (HTTP, DNS, Servidores, Hospedagem);
