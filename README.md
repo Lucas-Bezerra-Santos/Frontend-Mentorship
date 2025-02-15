@@ -1,6 +1,6 @@
 # 😎 Frontend-Mentorship 😎
 
-Este repositório é dedicado a mentorias de frontend, oferecendo suporte para desenvolvedores de todos os níveis. Aqui, você encontrará materiais de estudo, desafios práticos, boas práticas e orientação sobre tecnologias como Fundamentos da WEB, o que é um Dev front, git, HTML, CSS, JavaScript, TypeScript, React e outros.
+Este repositório é dedicado a mentorias de frontend, oferecendo suporte para futuros desenvolvedores frontend. Aqui, você encontrará materiais de estudo, desafios práticos, boas práticas e orientação sobre tecnologias como Fundamentos da WEB, o que é um Dev front, git, HTML, CSS, JavaScript, TypeScript, React, lembrando que esse é apenas um guia para se adentrar no universo frontend que por sua vez é infinitamente maior.
 
 E ai se interessou em se transforma em um baita desenvolvedor frontend? <b>Sim, Lógico, Bora, vamo</b>
 
