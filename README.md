@@ -1,73 +1,17 @@
-# 😎 Frontend-Mentorship 😎
+# 📚 Mentorship 📚
 
-Este repositório é dedicado a mentorias de frontend, oferecendo suporte para futuros desenvolvedores frontend. Aqui, você encontrará materiais de estudo, desafios práticos, boas práticas e orientação sobre tecnologias como Fundamentos da WEB, o que é um Dev front, git, HTML, CSS, JavaScript, TypeScript, React, lembrando que esse é apenas um guia para se adentrar no universo frontend que por sua vez é infinitamente maior.
+Este repositório é dedicado a mentorias futuros desenvolvedores de software, oferecendo suporte para os mesmos. Aqui, você encontrará materiais de estudo, desafios práticos, boas práticas e orientações sobre diferentes áreas da tecnologia:  
 
-E ai se interessou em se transforma em um baita desenvolvedor frontend? <b>Sim, Lógico, Bora, vamo</b>
+- **Frontend**: Fundamentos da WEB, papel do desenvolvedor frontend, Git, HTML, CSS, JavaScript, TypeScript, React e mais.  
+- **Backend**: Arquitetura de software, bancos de dados, APIs, autenticação, Node.js, Python, Java e outras tecnologias.  
+- **Infraestrutura**: DevOps, cloud computing, CI/CD, conteinerização, monitoramento e boas práticas de escalabilidade.  
 
-## 📚 Roteiro de Estudos para Frontend 📚
-Este é um guia sequencial para estudar e se tornar um desenvolvedor frontend.
+E aí, quer evoluir e se tornar um profissional de destaque na área de tecnologia? <b> Então bora! </b>🚀
 
-0️⃣ <b>Introdução ao universo frontend</b>
-<br>🔹 [O que é Frontend](/docs/introduction/what_frontend.md);
-<br>🔹 [Qual a função do desenvolvedor frontend](/docs/introduction/what_frontend_develop.md).
+## 📚 Guias 📚
 
-1️⃣ *<b>Fundamentos da Web*</b>
-<br>🔹 [Como a web funciona (HTTP, DNS, Servidores, Hospedagem)](/docs/web-fundamentals/http-dns-servers-hostings.md);
-<br>🔹 [Navegadores e DevTools.](/docs/web-fundamentals/browser-and-devtools.md)
+- **[Frontend](/docs/Front/index.md)**
 
-2️⃣ *<b>Controle de Versão & Git*(TODO)</b>
-<br>🔹 Conceitos básicos de Git (commit, push, pull, branch);
-<br>🔹 GitHub e colaboração em projetos;
-<br>🔹 Pull Requests e Code Reviews.
+- **[Backend](/docs/Back/index.md)**
 
-3️⃣ *<b>HTML & Acessibilidade*(TODO)</b>
-<br>🔹 Estrutura básica de um documento HTML;
-<br>🔹 Tags semânticas e boas práticas;
-<br>🔹 Formulários e validação;
-<br>🔹 SEO básico;
-<br>🔹 Acessibilidade (ARIA, contraste, navegação por teclado).
-
-4️⃣ *<b>CSS & Layouts Responsivos*(TODO)</b>
-<br>🔹 Seletores, especificidade e herança;
-<br>🔹 Flexbox e Grid Layout;
-<br>🔹 Unidades de medida (px, em, rem, vw, vh, %);
-<br>🔹 Media Queries e Mobile First;
-<br>🔹 Pré-processadores (Sass, LESS).
-
-5️⃣ *<b>Logica e linguagem de programação com JavaScript (ES6+)*(TODO)</b>;
-<br>🔹 Sintaxe básica e manipulação do DOM;
-<br>🔹 Estruturas de controle e funções;
-<br>🔹 Arrow Functions, Template Literals, Destructuring;
-<br>🔹 Manipulação de Arrays e Objetos (map, filter, reduce);
-<br>🔹 Promises, Async/Await;
-<br>🔹 Eventos e propagação.
-
-6️⃣ *<b>Programação Assíncrona & APIs*(TODO)</b>;
-<br>🔹 Fetch API e consumo de APIs REST;
-<br>🔹 Manipulação de dados (JSON, LocalStorage, SessionStorage);
-<br>🔹 WebSockets e comunicação em tempo real(talvez nao).
-
-7️⃣ *<b>TypeScript(TODO)</b>*
-<br>🔹 Tipagem estática vs. dinâmica;
-<br>🔹 Tipos básicos (string, number, boolean, array, object);
-<br>🔹 Interfaces e tipos avançados;
-<br>🔹 Generics;
-<br>🔹 Integração com bibliotecas e frameworks.
-
-8️⃣ *<b>Frameworks & Bibliotecas Frontend(TODO)</b>*
-<br>🔹 Introdução ao React;
-<br>🔹 Componentização e Props;
-<br>🔹 Estado (useState, useEffect);
-<br>🔹 Hooks e Context API;
-<br>🔹 Gerenciamento de estado (Zustand).
-
-9️⃣ *<b>Aplicações & Projetos*</b>
-<br>🔹 Desenvolvimento de projetos práticos;
-<br>🔹 Consumo de APIs reais;
-<br>🔹 Boas práticas de código limpo e acessibilidade.
-
-1️⃣0️⃣ *<b>Frameworks & Bibliotecas Frontend(TODO)</b>*
-<br>🔹 Lint;
-<br>🔹 Prettier;
-<br>🔹 Husky;
-<br>🔹 Outras;
+- **[Infra](/docs/Infra/index.md)**
