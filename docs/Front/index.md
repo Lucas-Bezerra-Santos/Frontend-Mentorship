@@ -1,7 +1,7 @@
 
 ## 📚 Roteiro de Estudos para Frontend 📚
 
-Este é um guia sequencial para estudar e se tornar um desenvolvedor frontend.
+Este é um guia sequencial para estudar e se tornar um desenvolvedor frontend iniciante.
 
 0️⃣ <b>Introdução ao universo frontend</b>
 <br>🔹 [O que é Frontend](/docs/Front/introduction/what_frontend.md);
